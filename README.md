@@ -69,3 +69,8 @@ Simply include the file sortBibleSearch.php and you're good to go.
 include("sortBibleSearch.php");
 $results = sortBibleSearch("gen 2:4");
 ```
+
+
+## Demo ##
+You can view a working demo at [chud37.com/code/sortBibleSearch](http://chud37.com/code/sortBibleSearch)
+
