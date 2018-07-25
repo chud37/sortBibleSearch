@@ -61,3 +61,11 @@ If no book is found, returns false.
 $results = sortBibleSearch("1 Corinthians 3:4-5");
 // false
 ```
+
+## Usage ##
+Simply include the file sortBibleSearch.php and you're good to go.
+
+```
+include("sortBibleSearch.php");
+$results = sortBibleSearch("gen 2:4");
+```
